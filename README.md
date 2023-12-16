@@ -11,3 +11,8 @@ Unit 19: Configuration Files.......6
 Unit 20: Modular Programming.......10
 
 next is to begin the islamic education project
+
+15 - 12 - 2023
+worked on the framework of building an application 
+also worked on the pseudo code. identifying the several componenets of an app and how to code them
+the types of data they are
