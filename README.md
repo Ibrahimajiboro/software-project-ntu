@@ -16,3 +16,8 @@ next is to begin the islamic education project
 worked on the framework of building an application 
 also worked on the pseudo code. identifying the several componenets of an app and how to code them
 the types of data they are
+
+25 - 12 - 2023
+updated the model and wrote some action plans to execute 
+cretaed a framewokr as a guide 
+
