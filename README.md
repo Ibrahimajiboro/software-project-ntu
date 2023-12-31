@@ -21,3 +21,5 @@ the types of data they are
 updated the model and wrote some action plans to execute 
 cretaed a framewokr as a guide 
 
+29 - 12 - 2023 
+created some procedures for the sections part of the project and tested them, thank God they worked
