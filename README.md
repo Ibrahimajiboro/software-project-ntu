@@ -23,3 +23,12 @@ cretaed a framewokr as a guide
 
 29 - 12 - 2023 
 created some procedures for the sections part of the project and tested them, thank God they worked
+
+31 - 12 - 2023 
+---------------------------
+1. list the assessment objectives and create checklist for them
+2.  store correct answers either by creating a  method for them or writing code within the created methods
+3. understand how the return statement will be used in the main code and try them
+4. understand when and where to use the 'try & catch' tool and use them there 
+5. understand the save & load concept and use it...data serialization  
+
