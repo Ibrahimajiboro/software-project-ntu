@@ -25,6 +25,15 @@ cretaed a framewokr as a guide
 created some procedures for the sections part of the project and tested them, thank God they worked
 
 31 - 12 - 2023 
+-----------------------
+
+
+1 - 1 - 2024 
+-----------------------
+- used the created methods and procedures to begin the sample of the game
+- added the sections, the questions and the answers to the code
+- introdueced for loops to get the game running 
+
 ---------------------------
 1. list the assessment objectives and create checklist for them
 2.  store correct answers either by creating a  method for them or writing code within the created methods
