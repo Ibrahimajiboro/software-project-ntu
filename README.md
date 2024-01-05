@@ -41,3 +41,7 @@ created some procedures for the sections part of the project and tested them, th
 4. understand when and where to use the 'try & catch' tool and use them there 
 5. understand the save & load concept and use it...data serialization  
 
+Jan 4 - 2024 
+-----------------------
+- combined all methjods into one class
+- made all questions show in the console
