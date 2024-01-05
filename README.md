@@ -45,3 +45,7 @@ Jan 4 - 2024
 -----------------------
 - combined all methjods into one class
 - made all questions show in the console
+
+  Jan 5 - 2024 
+-----------------------
+- threw an exception in the check and return result method
