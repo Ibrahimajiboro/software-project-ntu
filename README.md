@@ -49,3 +49,5 @@ Jan 4 - 2024
   Jan 5 - 2024 
 -----------------------
 - threw an exception in the check and return result method
+- used try and catch to catch exceptions in the main code
+- created a conditional statement to separate the multiple questions section
