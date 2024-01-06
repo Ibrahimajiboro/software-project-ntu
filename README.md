@@ -55,3 +55,4 @@ Jan 4 - 2024
   Jan 6 - 2024 
 -----------------------
 - created a new method that allows the user to choose a 50-50 options for the questions
+- created another code that allows the user to get a clue for hard questions
